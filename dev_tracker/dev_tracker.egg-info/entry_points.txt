@@ -1,0 +1,2 @@
+[console_scripts]
+dev_tracker = dev_tracker.main:main

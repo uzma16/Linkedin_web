@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+dev_tracker/__init__.py
+dev_tracker/data_storage.py
+dev_tracker/git_utils.py
+dev_tracker/main.py
+dev_tracker/monitor.py
+dev_tracker/reporting.py
+dev_tracker/time_tracker.py
+dev_tracker.egg-info/PKG-INFO
+dev_tracker.egg-info/SOURCES.txt
+dev_tracker.egg-info/dependency_links.txt
+dev_tracker.egg-info/entry_points.txt
+dev_tracker.egg-info/requires.txt
+dev_tracker.egg-info/top_level.txt
